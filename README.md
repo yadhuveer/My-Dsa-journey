@@ -1,6 +1,6 @@
 # Data Structures & Algorithms Practice
 
-This repository contains all the DSA problems I have solved topic-wise using Java. It reflects my consistent hard work and dedication to mastering DSA.
+This repository contains all the DSA problems I have solved topic-wise using Java and Python. It reflects my consistent hard work and dedication to mastering DSA.
 
 ---
 
